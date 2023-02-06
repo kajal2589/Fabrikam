@@ -1,0 +1,23 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajal2589/Fabrikam.git"
+  },
+  "author": "kajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajal2589/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/kajal2589/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
